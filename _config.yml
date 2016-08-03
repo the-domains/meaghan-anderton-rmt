@@ -1,4 +1,3 @@
-layout_spectrum: 0.43346341769210994
 typography_spectrum: 0.4048163250554353
 color:
   brandStrength: 0.9458473578561097
@@ -11,5 +10,7 @@ color:
     - '#D0CCCB'
     - '#AE8AA6'
     - '#FEFEFE'
+layout_spectrum: 0.43346341769210994
 name: Meaghan Anderton RMT
 title: 'Meaghan Anderton '
+description: Registered Massage Therapy
